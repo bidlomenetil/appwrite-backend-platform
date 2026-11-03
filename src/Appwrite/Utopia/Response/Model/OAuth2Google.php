@@ -17,12 +17,12 @@ class OAuth2Google extends OAuth2Base
 
     public function getClientIdExample(): string
     {
-        return '120000000095-92ifjb00000000000000000000g7ijfb.apps.googleusercontent.com';
+        return 'google-client-id-example';
     }
 
     public function getClientSecretExample(): string
     {
-        return 'GOCSPX-2k8gsR0000000000000000VNahJj';
+        return 'google-client-secret-example';
     }
 
     public function getPromptValues(): array

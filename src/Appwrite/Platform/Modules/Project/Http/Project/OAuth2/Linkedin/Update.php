@@ -55,6 +55,6 @@ class Update extends Base
 
     public static function getClientSecretExample(): string
     {
-        return 'WPL_AP1.2Bf0000000000000./HtlYw==';
+        return 'linkedin-client-secret-example';
     }
 }

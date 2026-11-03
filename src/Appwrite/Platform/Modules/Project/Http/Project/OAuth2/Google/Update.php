@@ -54,7 +54,7 @@ class Update extends Base
 
     public static function getClientIdExample(): string
     {
-        return '120000000095-92ifjb00000000000000000000g7ijfb.apps.googleusercontent.com';
+        return 'google-client-id-example';
     }
 
     public static function getClientSecretName(): string
@@ -64,7 +64,7 @@ class Update extends Base
 
     public static function getClientSecretExample(): string
     {
-        return 'GOCSPX-2k8gsR0000000000000000VNahJj';
+        return 'google-client-secret-example';
     }
 
     public static function getPromptValues(): array
